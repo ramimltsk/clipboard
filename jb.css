@@ -1,0 +1,207 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p{
+    color: hsl(201, 11%, 66%);
+}
+
+h1{
+    color: hsl(210, 10%, 33%);
+}
+
+h2{
+    color: hsl(210, 10%, 33%);
+
+}
+.header img{
+    margin-top: 100px;
+}
+
+.texttop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.texttop h1{
+    font-size: 40px;
+}
+
+.texttop p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 10px;
+}
+
+.gren{
+    padding: 15px;
+    background-color: hsl(171, 66%, 44%);
+    border: 0;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px hsl(171, 66%, 44%);
+}
+
+.blu{
+    background-color: hsl(233, 100%, 69%);
+    padding: 15px;
+    border: 0;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px hsl(233, 100%, 69%);
+}
+
+.snippets h1{
+    font-size: 40px;
+}
+
+.snippets p{
+    font-size: 20px;
+}
+
+.snippets {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.snippetsimg{
+    padding-top:15px;
+    display: flex;
+    gap: 100px;
+}
+
+.snippetstxt h2{
+    font-size: 30px;
+}
+
+.snippetstxt p{
+    font-size: 15px;
+}
+
+.snippetstxt div{
+    padding-top: 100px;
+}
+
+.snippetsimg img{
+    width: 1000px;
+}
+
+.Clipboard{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.Clipboard p{
+    font-size: 20px;
+
+}
+
+.Clipboard h1{
+    font-size: 40px;
+}
+
+.Clipboard img{
+    width: 1000px;
+}
+
+.super{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.features{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.blacklists{
+    text-align: center;
+}
+
+.plain{
+    text-align: center;
+}
+
+.sneak{
+    text-align: center;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding-top: 100px;
+}
+
+.download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.download h2{
+    font-size: 35px;
+}
+
+.download p{
+    font-size: 20px;
+}
+
+.cee{
+    width: 50px;
+}
+
+.bottom{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    background-color: hsl(203, 21%, 88%);
+
+    padding: 20px;
+}
+
+.icons{
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+}
+
+.buttons2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 10px;
+    margin-bottom: 100px;
+    
+}
